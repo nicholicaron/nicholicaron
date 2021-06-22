@@ -1,5 +1,14 @@
 ### Hi there 👋
-
+I'm Nicholi!
+Some stuff I'm interested in:
+  - Computer Vision
+  - Cyber-Physical Systems
+  - Robotics
+  - Languages:
+    + C/C++
+    + Python
+    + Haskell
+    + Rust
 <!--
 **nicholicaron/nicholicaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
