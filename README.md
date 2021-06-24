@@ -4,11 +4,13 @@ Some stuff I'm interested in:
   - Computer Vision
   - Cyber-Physical Systems
   - Robotics
+  - Embedded Programming
   - Languages:
     + C/C++
     + Python
-    + Haskell
     + Rust
+    + Haskell
+    
 <!--
 **nicholicaron/nicholicaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
