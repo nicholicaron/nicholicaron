@@ -6,9 +6,9 @@ Some stuff I'm interested in:
   - Robotics
   - Embedded Programming
   - Languages:
+    + Rust
     + C/C++
     + Python
-    + Rust
     + Haskell
     
 <!--
