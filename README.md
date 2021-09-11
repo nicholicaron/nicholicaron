@@ -2,14 +2,13 @@
 I'm Nicholi!
 Some stuff I'm interested in:
   - Computer Vision
-  - Cyber-Physical Systems
-  - Robotics
+  - AI/ML
+  - Specialized AI HW/SW codesign
   - Embedded Programming
   - Languages:
     + Rust
     + C/C++
     + Python
-    + Haskell
     
 <!--
 **nicholicaron/nicholicaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
