@@ -4,6 +4,7 @@ Some stuff I'm interested in:
   - Computer Vision
   - AI/ML
   - Specialized AI HW/SW codesign
+  - RISC-V
   - Embedded Programming
   - Languages:
     + Rust
