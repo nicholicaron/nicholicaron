@@ -1,11 +1,11 @@
 ### Hi there 👋
 I'm Nicholi!
 Some stuff I'm interested in:
-  - Computer Vision
-  - AI/ML
+  - Rust <3
   - Specialized AI HW/SW codesign
   - RISC-V
   - Embedded Programming
+  - Computer Vision
   - Languages:
     + Rust
     + C/C++
