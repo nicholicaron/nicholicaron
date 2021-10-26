@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yello 👋
 I'm Nicholi!
 Some stuff I'm interested in:
   - Rust <3
@@ -10,6 +10,7 @@ Some stuff I'm interested in:
     + Rust
     + C/C++
     + Python
+    + Typescript
     
 <!--
 **nicholicaron/nicholicaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
