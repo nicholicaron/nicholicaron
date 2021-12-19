@@ -4,6 +4,7 @@ Some stuff I'm interested in:
   - Specialized HW/SW codesign
   - Distributed Systems
   - Embedded Programming
+  - Numerical Linear Algebra
   - Languages:
     + Rust <3
     + C
