@@ -7,6 +7,7 @@ Some stuff I'm interested in:
   - Numerical Linear Algebra
   - Languages:
     + Rust <3
+    + C
     + Go
     + Typescript
     
