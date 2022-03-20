@@ -2,15 +2,19 @@
 I'm Nicholi!
 Some stuff I'm interested in:
   - Specialized HW/SW codesign
-  - Distributed Systems
+  - Game theory
   - Embedded Programming
   - Numerical Linear Algebra
   - Languages:
     + Rust <3
     + C
-    + Go
     + Typescript
-    
+ 
+- 😄 Pronouns: He/him
+- Tabs or Spaces? Idrc, tabs I guess?
+- Vim or Emacs? Both ;) (Spacemacs)
+- 📫 How to reach me: https://nicholi.me/contact/
+
 <!--
 **nicholicaron/nicholicaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
