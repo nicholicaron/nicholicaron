@@ -12,10 +12,14 @@ Some stuff I'm interested in:
     
     
 ----------------------
-- Pronouns: He/him
-- Tabs or Spaces? Idrc, tabs I guess?
-- Vim or Emacs? Both ;) (Spacemacs)
-- 📫 How to reach me: https://nicholi.me/contact/
+- Pronouns: 
+  + He/him
+- Tabs or Spaces? 
+  + Idrc, tabs I guess?
+- Vim or Emacs? 
+  + Both ;) (Spacemacs)
+- 📫 How to reach me: 
+  + https://nicholi.me/contact/
 
 <!--
 **nicholicaron/nicholicaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
