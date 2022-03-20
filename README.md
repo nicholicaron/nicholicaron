@@ -9,8 +9,10 @@ Some stuff I'm interested in:
     + Rust <3
     + C
     + Typescript
- 
-- 😄 Pronouns: He/him
+    
+    
+----------------------
+- Pronouns: He/him
 - Tabs or Spaces? Idrc, tabs I guess?
 - Vim or Emacs? Both ;) (Spacemacs)
 - 📫 How to reach me: https://nicholi.me/contact/
