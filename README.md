@@ -1,11 +1,11 @@
 ### Yello 👋
 I'm Nicholi!
 Some stuff I'm interested in:
-  - Specialized HW/SW codesign
   - Game theory/Mechanism Design
   - Cryptography
-  - Embedded Programming
+  - Embedded & Low level systems Programming
   - Numerical Linear Algebra
+  - Specialized HW/SW Codesign
   - Languages:
     + Rust <3
     + C
