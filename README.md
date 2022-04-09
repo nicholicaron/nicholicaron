@@ -3,6 +3,7 @@ I'm Nicholi!
 Some stuff I'm interested in:
   - Game theory/Mechanism Design
   - Cryptography
+  - Compilers
   - Embedded & Low level systems Programming
   - Numerical Linear Algebra
   - Specialized HW/SW Codesign
