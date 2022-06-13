@@ -18,8 +18,8 @@ Some stuff I'm interested in:
   + He/him
 - Tabs or Spaces? 
   + Idrc, tabs I guess?
-- Vim or Emacs? 
-  + Both ;) (Spacemacs)
+- Editor? 
+  + As long as I've got Vim keybinds, I don't mind. My current preferences: Neovim > Spacemacs > VsCode
 - 📫 How to reach me: 
   + https://nicholi.me/contact/
 
