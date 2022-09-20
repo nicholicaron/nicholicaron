@@ -19,7 +19,7 @@ Some stuff I'm interested in:
 - Tabs or Spaces? 
   + Idrc, tabs I guess?
 - Editor? 
-  + As long as I've got Vim keybinds, I don't mind.
+  + Spacemacs/NeoVim.
 - 📫 How to reach me: 
   + https://nicholi.me/contact/
 
