@@ -24,7 +24,7 @@ Some stuff I'm interested in:
 
 -----------------------
 
-P.S.: Oh yeah! If you're bored, check out my [blog](www.nicholi.me)
+P.S.: Oh yeah! If you're bored, check out my [blog](https://www.nicholi.me)
 
 <!--
 **nicholicaron/nicholicaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
