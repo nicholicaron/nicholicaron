@@ -22,6 +22,10 @@ Some stuff I'm interested in:
 - 📫 How to reach me: 
   + https://nicholi.me/contact/
 
+-----------------------
+
+P.S.: Oh yeah! If you're bored, check out my [blog](www.nicholi.me)
+
 <!--
 **nicholicaron/nicholicaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
