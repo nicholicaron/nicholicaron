@@ -5,11 +5,10 @@ Some stuff I'm interested in:
   - Numerical Linear Algebra
   - Specialized HW/SW Codesign
   - Game theory/Mechanism Design
+  - Financial Derivatives
   - Cryptography
-  - Embedded & Low level systems Programming
   - Languages:
     + Rust <3
-    + C
     + Typescript
     
     
