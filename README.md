@@ -2,6 +2,7 @@
 I'm Nicholi!
 Some stuff I'm interested in:
   - Compilers
+  - Fuzzers & Binary Security
   - Numerical Linear Algebra
   - Specialized HW/SW Codesign
   - Game theory/Mechanism Design
@@ -9,7 +10,6 @@ Some stuff I'm interested in:
   - Cryptography
   - Languages:
     + Rust <3
-    + Typescript
     
     
 ----------------------
@@ -17,6 +17,8 @@ Some stuff I'm interested in:
   + He/him
 - Tabs or Spaces? 
   + Idrc, tabs I guess?
+- Occupation:
+  + Currently a SysAdmin moonlighting as a member of the Arch Linux/Rust evangelism strike force
 - Editor? 
   + Spacemacs/NeoVim.
 - 📫 How to reach me: 
