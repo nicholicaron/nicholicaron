@@ -5,8 +5,7 @@ Some stuff I'm interested in:
   - Fuzzers & Binary Security
   - Numerical Linear Algebra
   - Specialized HW/SW Codesign
-  - Game theory/Mechanism Design
-  - Financial Derivatives
+  - Game theory
   - Cryptography
   - Languages:
     + Rust <3
