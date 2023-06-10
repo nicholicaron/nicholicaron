@@ -2,13 +2,14 @@
 I'm Nicholi!
 Some stuff I'm interested in:
   - Compilers
-  - Distributed Systems
+  - Distributed Systems & Databases
   - Fuzzers & Binary Security
   - Numerical Linear Algebra
   - Specialized HW/SW Codesign
   - Game theory
   - Languages:
     + Rust <3
+    + Mojo
     
     
 ----------------------
