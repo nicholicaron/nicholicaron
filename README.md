@@ -2,14 +2,28 @@
 I'm Nicholi!
 Some stuff I'm interested in:
   - Compilers
-  - Distributed Systems & Databases
+  - Deep Learning
+      + Neural Differential Equations
+      + Graph Neural Networks
+      + Etc.
+  - ML Infra
+      + Specialized HW/SW Codesign
+        - TPUs, FPGA's, etc. 
+      + Compilers & Programming Languages
+        - Projects like Apache TVM, Mojo, Tinygrad are super fascinating
   - Fuzzers & Binary Security
-  - Numerical Linear Algebra
-  - Specialized HW/SW Codesign
+  - Mathematics
+    + Numerical Linear Algebra
+    + Graph Theory
+    + Combinatorics
+    + Optimization/Linear Programming
+    + Calculus
   - Game theory
   - Languages:
     + Rust <3
     + Mojo
+    + C++
+    + Python
     
     
 ----------------------
@@ -17,8 +31,12 @@ Some stuff I'm interested in:
   + He/him
 - Tabs or Spaces? 
   + Idrc, tabs I guess?
+- Indentation or Curly Braces?
+  + Indentation 0_0 
 - Occupation:
-  + Currently a SysAdmin moonlighting as a member of the Arch Linux/Rust evangelism strike force
+  + Undergraduate studying Mathematics with a concentration in Discrete Math & Operations Research
+  + Former ML Research Intern, Sysadmin, & IT Helpdesk guy
+  + Moonlighting as a member of the Arch Linux/Rust evangelism strike force
 - Editor? 
   + Spacemacs/NeoVim.
 - 📫 How to reach me: 
