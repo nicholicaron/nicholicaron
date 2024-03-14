@@ -1,5 +1,5 @@
 ### Yello 👋
-I'm Nicholi!
+I'm Nicholi (also Neeko)!
 Some stuff I'm interested in:
   - Compilers
   - Deep Learning
