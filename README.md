@@ -34,17 +34,18 @@ Some stuff I'm interested in:
 - Indentation or Curly Braces?
   + Indentation 0_0 
 - Occupation:
-  + Undergraduate studying Mathematics with a concentration in Discrete Math & Operations Research
+  + AI Engineer
+  + Studied Mathematics with a concentration in Discrete Math & Operations Research for Undergrad
   + Former ML Research Intern, Sysadmin, & IT Helpdesk guy
   + Moonlighting as a member of the Arch Linux/Rust evangelism strike force
 - Editor? 
   + Spacemacs/NeoVim.
 - 📫 How to reach me: 
-  + https://nicholi.me/contact/
+  + https://nicholi.ai/contact/
 
 -----------------------
 
-P.S.: Oh yeah! If you're bored, check out my [blog](https://www.nicholi.me)
+P.S.: Oh yeah! If you're bored, check out my [blog](https://www.nicholi.ai)
 
 <!--
 **nicholicaron/nicholicaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
